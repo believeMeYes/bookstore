@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+body{
+	background-color:blue;
+}
+#title{
+	color:black;
+	font-size:1.5rem;
+	margin-left:42.5rem;
+	
+}
+.account{
+	font-size:1.2rem;
+	margin-left:35rem;
+}
+.password{
+	font-size:1.2rem;
+	margin-left:35rem;
+}
+.button{
+	margin-top:2rem;
+}
+#submit{
+	height:2rem;
+	width:4rem;	
+	margin-left:38.5rem;
+}
+#reset{
+	height:2rem;
+	width:4rem;	
+	margin-left:2.5rem;
+	
+}
